@@ -12,8 +12,8 @@ This template is created in mind to use in collaborative environments.
 This template is open for improvements!
 
 ### ↑↑↑ DELETE EVERYTHING ABOVE THE LINE ↑↑↑
+----
 
---------
 
 <div align="center">
 
@@ -30,34 +30,44 @@ This template is open for improvements!
 [![contributors](https://img.shields.io/github/contributors/WUR-AI/aether.svg)](https://github.com/WUR-AI/aether//graphs/contributors)
 
 </div>
+<br>
 
 ## 📝 Description
+
 Provide a 2-3 sentence high-level summary of the project. Include informative figure if available!
 
----
+<br>
 
 ## ⚙️ Installation
 
 ### 1. Clone the Repository
+
 ```bash
 git clone [https://github.com/WUR-AI/TODO.git](https://github.com/WUR-AI/TODO.git)
 cd TODO
 ````
+<br>
+
 ### 2. Set up Environment
+
 ```bash
 
 ```
+<br>
 
 ## 🚀 Getting Started
 ### Data Preparation
 
 Explain where to download the data and where to place it (e.g., in a data/ folder).
 
+<br>
+
 ### Running: Training, analysing, etc.
+
 ```bash
 
 ```
-
+<br>
 
 ## 📂 Project Structure
 Make use of `tree -L 2 -I ".gitignore"` to auto-generate the tree.
@@ -87,25 +97,25 @@ Make use of `tree -L 2 -I ".gitignore"` to auto-generate the tree.
 │   └── utils                       # Helper functions
 └── tests                           # Unit tests
 ```
-
-
+<br>
 
 ## 📈 Project Updates & News
- Presentations & releases
+ 
+Presentations & releases
 * [2026-03-12]: Template released!
+<br>
 
 ## 📚 Citation
 
-If you use Tessera in your research, please cite the [arXiv paper](https://arxiv.org/abs/2506.20380):
+If you use TODO in your research, please cite the [arXiv paper](TODO):
 
 ```bibtex
-@misc{feng2025tesseratemporalembeddingssurface,
-      title={TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis}, 
-      author={Zhengpeng Feng and Clement Atzberger and Sadiq Jaffer and Jovana Knezevic and Silja Sormunen and Robin Young and Madeline C Lisaius and Markus Immitzer and David A. Coomes and Anil Madhavapeddy and Andrew Blake and Srinivasan Keshav},
-      year={2025},
-      eprint={2506.20380},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2506.20380}, 
+@misc{awesomeAINtemplate2026,
+      title={}, 
+      author={},
+      year={},
+      eprint={},
+      archivePrefix={},
+      url={}, 
 }
 ```
