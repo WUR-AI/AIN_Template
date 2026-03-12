@@ -1,0 +1,7 @@
+# Global owners (default unless specified otherwise)
+* @WUR-AI
+
+/src/ @WUR-AI
+
+# example of specific file
+/CODE_OF_CONDUCT.md @vdplasthijs
